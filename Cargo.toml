@@ -1,0 +1,6 @@
+[package]
+name = "ternary-ising"
+version = "0.1.0"
+edition = "2021"
+description = "Ising model simulation for ternary {-1,0,+1} spin systems with Metropolis-Hastings and critical temperature detection"
+license = "MIT"
